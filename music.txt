@@ -15,3 +15,568 @@ description=pokemon
 name=weather channel
 package=https://www.mediafire.com/file/c0wth99wm2twwre/weather_channel.mmm/file
 description=Escucha esta canción
+
+name=09.Serani Poji マイニーウィボン
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/09.Serani%20Poji_%E3%83%9E%E3%82%A4%E3%83%8B%E3%83%BC%E3%82%A6%E3%82%A3%E3%83%9B%E3%82%99%E3%83%B3%20%28Official%20Audio%29%20-%20crownrecord.mmm
+description=Escucha esta canción
+
+name=1995 07 29 Build - Lunar Tower - 𝖜𝖆𝖘𝖙𝖊𝖔𝖋𝖇𝖑𝖔𝖔𝖉
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/1995_07_29%20Build%20-%20Lunar%20Tower%20-%20%F0%9D%96%9C%F0%9D%96%86%F0%9D%96%98%F0%9D%96%99%F0%9D%96%8A%F0%9D%96%94%F0%9D%96%8B%F0%9D%96%87%F0%9D%96%91%F0%9D%96%94%F0%9D%96%94%F0%9D%96%89.mmm
+description=Escucha esta canción
+
+name=1995 07 29 Build OST - Geschichtsvergessenheit - 𝖜𝖆𝖘𝖙𝖊𝖔𝖋𝖇𝖑𝖔𝖔𝖉
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/1995_07_29%20Build%20OST%20-%20Geschichtsvergessenheit%20-%20%F0%9D%96%9C%F0%9D%96%86%F0%9D%96%98%F0%9D%96%99%F0%9D%96%8A%F0%9D%96%94%F0%9D%96%8B%F0%9D%96%87%F0%9D%96%91%F0%9D%96%94%F0%9D%96%94%F0%9D%96%89.mmm
+description=Escucha esta canción
+
+name=2000s ~𝒩𝑜𝓈𝓉𝒶𝓁𝑔𝒾𝒸~ Frutiger Aero Playlist - AeroEarth
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/2000s%20~%F0%9D%92%A9%F0%9D%91%9C%F0%9D%93%88%F0%9D%93%89%F0%9D%92%B6%F0%9D%93%81%F0%9D%91%94%F0%9D%92%BE%F0%9D%92%B8~%20Frutiger%20Aero%20Playlist%20-%20AeroEarth.mmm
+description=Escucha esta canción
+
+name=50 Estrellas 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/50%20Estrellas_256k.mmm
+description=Escucha esta canción
+
+name=80's Cassette Tapes Metal Gear Solid V The Phantom Pain
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/80%27s%20Cassette%20Tapes%20Metal%20Gear%20Solid%20V%20The%20Phantom%20Pain.mmm
+description=Escucha esta canción
+
+name=AGES
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/AGES%20%5BAll-Star%20Theme%5D%20-%20Sonic%20%26%20All-Stars%20Racing%20Transformed%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Adder's Lair
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Adder%27s%20Lair%20%28Intro%29%20-%20Sonic%20%26%20All-Stars%20Racing%20Transformed%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Adder's Lair - Sonic & All-Stars Racing Transformed
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Adder%27s%20Lair%20-%20Sonic%20%26%20All-Stars%20Racing%20Transformed%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=AiAi
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/AiAi%20%5BAll-Star%20Theme%5D%20-%20Sonic%20%26%20All-Stars%20Racing%20Transformed%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Alex Kidd
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Alex%20Kidd%20%5BAll-Star%20Theme%5D%20-%20Sonic%20%26%20All-Stars%20Racing%20Transformed%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Algora & Cachorro - Sp❤️️❤️️d
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Algora%20%26%20Cachorro%20-%20Sp%E2%9D%A4%EF%B8%8F%EF%B8%8F%E2%9D%A4%EF%B8%8F%EF%B8%8Fd%20%5BAUDIO%5D_256k.mmm
+description=Escucha esta canción
+
+name=Algora 'Bruno El Oso' Dj Moderno Remix 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Algora%20%27Bruno%20El%20Oso%27%20Dj%20Moderno%20Remix_256k.mmm
+description=Escucha esta canción
+
+name=Algora - 'Fiesta de Despedida'
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Algora%20-%20%27Fiesta%20de%20Despedida%27%20%5BAUDIO%5D_256k.mmm
+description=Escucha esta canción
+
+name=Algora - Bruno, el oso
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Algora%20-%20Bruno%2C%20el%20oso%20%28Pshycotic%20Beats%20rmx%29%20%20%5BAUDIO%5D_256k.mmm
+description=Escucha esta canción
+
+name=Algora - Chicos transparentes
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Algora%20-%20Chicos%20transparentes%20%28vi%CC%81deo%20oficial%29_256k.mmm
+description=Escucha esta canción
+
+name=Algora - Dioses y Hombres
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Algora%20-%20Dioses%20y%20Hombres%20%28vi%CC%81deo%20oficial%29_256k.mmm
+description=Escucha esta canción
+
+name=Algora - Drogas nuevas
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Algora%20-%20Drogas%20nuevas%20%28video%20oficial%29_256k.mmm
+description=Escucha esta canción
+
+name=Algora - El amado distraído
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Algora%20-%20El%20amado%20distrai%CC%81do%20%28vi%CC%81deo%20oficial%29_256k.mmm
+description=Escucha esta canción
+
+name=Algora - Europa y el bosque enamorado
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Algora%20-%20Europa%20y%20el%20bosque%20enamorado%20%28vi%CC%81deo%20oficial%29_256k.mmm
+description=Escucha esta canción
+
+name=Algora - La Era Punk
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Algora%20-%20La%20Era%20Punk%20%28vi%CC%81deo%20oficial%29_256k.mmm
+description=Escucha esta canción
+
+name=Algora - La era punk
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Algora%20-%20La%20era%20punk%20%28Mr.K%21%20Remix%29%20%5BAUDIO%5D_256k.mmm
+description=Escucha esta canción
+
+name=Algora - La era punk
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Algora%20-%20La%20era%20punk%20%28rubeck%20Remix%29%20%5BAUDIO%5D_256k.mmm
+description=Escucha esta canción
+
+name=Algora - Los ojos de Pablo
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Algora%20-%20Los%20ojos%20de%20Pablo%20%28vi%CC%81deo%20oficial%29_256k.mmm
+description=Escucha esta canción
+
+name=Algora - Luna de Cazador
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Algora%20-%20Luna%20de%20Cazador%20%5Bvi%CC%81deo%20oficial%5D_256k.mmm
+description=Escucha esta canción
+
+name=Algora - Marina
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Algora%20-%20Marina%20%5BAUDIO%5D_256k.mmm
+description=Escucha esta canción
+
+name=Algora - Medalla de Oro
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Algora%20-%20Medalla%20de%20Oro%20%5BVi%CC%81deo%20Oficial%5D_256k.mmm
+description=Escucha esta canción
+
+name=Algora - Muerdealmohadas
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Algora%20-%20Muerdealmohadas%20%28vi%CC%81deo%20oficial%29_256k.mmm
+description=Escucha esta canción
+
+name=Algora ft. Valdivia - Pódium
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Algora%20ft.%20Valdivia%20-%20Po%CC%81dium%20%28video%20oficial%29_256k.mmm
+description=Escucha esta canción
+
+name=All I Want For Christmas Is You
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/All%20I%20Want%20For%20Christmas%20Is%20You%20%28Wii%20Shop%29%20%5BpDGl2albRHk%5D.mmm
+description=Escucha esta canción
+
+name=Amigo
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Amigo%20%5BAll-Star%20Theme%5D%20-%20Sonic%20%26%20All-Stars%20Racing%20Transformed%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Amor de Hombre 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Amor%20de%20Hombre_256k.mmm
+description=Escucha esta canción
+
+name=Amor perfecto 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Amor%20perfecto_256k.mmm
+description=Escucha esta canción
+
+name=Amy Rose
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Amy%20Rose%20%5BAll-Star%20Theme%5D%20-%20Sonic%20%26%20All-Stars%20Racing%20Transformed%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Anatomía Animal
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Anatomi%CC%81a%20Animal%20%28Versio%CC%81n%20de%20Florent%20y%20Yo%29_256k.mmm
+description=Escucha esta canción
+
+name=Antinoo 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Antinoo_256k.mmm
+description=Escucha esta canción
+
+name=Aplastado por el Gogó 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Aplastado%20por%20el%20Gogo%CC%81_256k.mmm
+description=Escucha esta canción
+
+name=Avatar
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Avatar%20%5BAll-Star%20Theme%5D%20-%20Sonic%20%26%20All-Stars%20Racing%20Transformed%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=B.D. Joe
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/B.D.%20Joe%20%5BAll-Star%20Theme%5D%20-%20Sonic%20%26%20All-Stars%20Racing%20Transformed%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Back in Time
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Back%20in%20Time%20%28Instrumental%29%20-%20Sonic%20R%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Back in Time - Sonic R
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Back%20in%20Time%20-%20Sonic%20R%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Beat
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Beat%20%5BAll-Star%20Theme%5D%20-%20Sonic%20%26%20All-Stars%20Racing%20Transformed%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Bicho raro 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Bicho%20raro_256k.mmm
+description=Escucha esta canción
+
+name=Big Mac Drama 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Big%20Mac%20Drama_256k.mmm
+description=Escucha esta canción
+
+name=Blod Besvimelse - Misantrop - FARAMOI 228
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Blod%20Besvimelse%20-%20Misantrop%20-%20FARAMOI%20228.mmm
+description=Escucha esta canción
+
+name=Boney M. - Sunny
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Boney%20M.%20-%20Sunny%20%28Official%20Audio%29%20%5BghGiv7YLC7Q%5D.mmm
+description=Escucha esta canción
+
+name=Boss!! - Sonic the Hedgehog CD
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Boss%21%21%20-%20Sonic%20the%20Hedgehog%20CD%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Bruno el Oso 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Bruno%20el%20Oso_256k.mmm
+description=Escucha esta canción
+
+name=Bruno, El Oso
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Bruno%2C%20El%20Oso%20%28Rafa%20Spunky%20Remix%29_256k.mmm
+description=Escucha esta canción
+
+name=Bruno, El Oso 256k(1)
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Bruno%2C%20El%20Oso_256k%281%29.mmm
+description=Escucha esta canción
+
+name=Bruno, El Oso 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Bruno%2C%20El%20Oso_256k.mmm
+description=Escucha esta canción
+
+name=Burning Depths
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Burning%20Depths%20%28Intro%29%20-%20Sonic%20%26%20All-Stars%20Racing%20Transformed%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Burning Depths - Sonic & All-Stars Racing Transformed
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Burning%20Depths%20-%20Sonic%20%26%20All-Stars%20Racing%20Transformed%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Campaña Contra el Tabaquismo o el Cadáver Copulador
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Campan%CC%83a%20Contra%20el%20Tabaquismo%20o%20el%20Cada%CC%81ver%20Copulador%20%28Versio%CC%81n%20Instrumental%20De_256k.mmm
+description=Escucha esta canción
+
+name=Can You Feel the Sunshine
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Can%20You%20Feel%20the%20Sunshine%20%28Instrumental%29%20-%20Sonic%20R%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Can You Feel the Sunshine - Sonic R
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Can%20You%20Feel%20the%20Sunshine%20-%20Sonic%20R%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Canción Mentira 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Cancio%CC%81n%20Mentira_256k.mmm
+description=Escucha esta canción
+
+name=Canción de Amor a Satanás 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Cancio%CC%81n%20de%20Amor%20a%20Satana%CC%81s_256k.mmm
+description=Escucha esta canción
+
+name=Carrier Zone
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Carrier%20Zone%20%28Intro%29%20-%20Sonic%20%26%20All-Stars%20Racing%20Transformed%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Centauros - Sauna infierno
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Centauros%20-%20Sauna%20infierno%20%28ft.%20Algora%29%20%5Bvi%CC%81deo%20oficial%5D_256k.mmm
+description=Escucha esta canción
+
+name=Chilly Castle
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Chilly%20Castle%20%28Intro%29%20-%20Sonic%20%26%20All-Stars%20Racing%20Transformed%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Chilly Castle - Sonic & All-Stars Racing Transformed
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Chilly%20Castle%20-%20Sonic%20%26%20All-Stars%20Racing%20Transformed%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Cipriana 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Cipriana_256k.mmm
+description=Escucha esta canción
+
+name=Círculo 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Ci%CC%81rculo_256k.mmm
+description=Escucha esta canción
+
+name=Cocodrilo 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Cocodrilo_256k.mmm
+description=Escucha esta canción
+
+name=Collision Chaos 'B' mix - Sonic the Hedgehog CD
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Collision%20Chaos%20%27B%27%20mix%20-%20Sonic%20the%20Hedgehog%20CD%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Collision Chaos 'P' mix - Sonic the Hedgehog CD
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Collision%20Chaos%20%27P%27%20mix%20-%20Sonic%20the%20Hedgehog%20CD%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Cornamentas 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Cornamentas_256k.mmm
+description=Escucha esta canción
+
+name=Cosmic Eternity ~ Believe in Yourself - Sonic the Hedgehog CD
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Cosmic%20Eternity%20~%20Believe%20in%20Yourself%20-%20Sonic%20the%20Hedgehog%20CD%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Cómo Construir un Melocotón Gigante 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Co%CC%81mo%20Construir%20un%20Melocoto%CC%81n%20Gigante_256k.mmm
+description=Escucha esta canción
+
+name=Cráneo Roto 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Cra%CC%81neo%20Roto_256k.mmm
+description=Escucha esta canción
+
+name=Daft Punk - Veridis Quo
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Daft%20Punk%20-%20Veridis%20Quo%20%28Official%20Audio%29%20%5BTCd6PfxOy0Y%5D.mmm
+description=Escucha esta canción
+
+name=Danica Patrick
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Danica%20Patrick%20%5BAll-Star%20Theme%5D%20-%20Sonic%20%26%20All-Stars%20Racing%20Transformed%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=David
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/David%20%28Versio%CC%81n%20de%20Victor%20Mut%20and%20the%20Magic%20Musicians%29_256k.mmm
+description=Escucha esta canción
+
+name=Desayuno Sobre la Hierba 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Desayuno%20Sobre%20la%20Hierba_256k.mmm
+description=Escucha esta canción
+
+name=Diamond in the Sky
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Diamond%20in%20the%20Sky%20%28Instrumental%29%20-%20Sonic%20R%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Diamond in the Sky - Sonic R
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Diamond%20in%20the%20Sky%20-%20Sonic%20R%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Disco Mágico 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Disco%20Ma%CC%81gico_256k.mmm
+description=Escucha esta canción
+
+name=Dondiego 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Dondiego_256k.mmm
+description=Escucha esta canción
+
+name=Dragon Canyon - Sonic & All-Stars Racing Transformed
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Dragon%20Canyon%20-%20Sonic%20%26%20All-Stars%20Racing%20Transformed%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Dream Valley
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Dream%20Valley%20%28Intro%29%20-%20Sonic%20%26%20All-Stars%20Racing%20Transformed%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Dream Valley - Sonic & All-Stars Racing Transformed
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Dream%20Valley%20-%20Sonic%20%26%20All-Stars%20Racing%20Transformed%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Egg Hangar - Sonic & All-Stars Racing Transformed
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Egg%20Hangar%20-%20Sonic%20%26%20All-Stars%20Racing%20Transformed%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=El Escalador 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/El%20Escalador_256k.mmm
+description=Escucha esta canción
+
+name=El Hijo Larva 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/El%20Hijo%20Larva_256k.mmm
+description=Escucha esta canción
+
+name=El Nogal 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/El%20Nogal_256k.mmm
+description=Escucha esta canción
+
+name=El Tío Paco 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/El%20Ti%CC%81o%20Paco_256k.mmm
+description=Escucha esta canción
+
+name=El Traje De Bombillas 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/El%20Traje%20De%20Bombillas_256k.mmm
+description=Escucha esta canción
+
+name=El Último Hombre en Europa 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/El%20U%CC%81ltimo%20Hombre%20en%20Europa_256k.mmm
+description=Escucha esta canción
+
+name=El diluvio universal
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/El%20diluvio%20universal%20%28Versio%CC%81n%20de%20Srico%29_256k.mmm
+description=Escucha esta canción
+
+name=Elaid y Tiberiu 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Elaid%20y%20Tiberiu_256k.mmm
+description=Escucha esta canción
+
+name=Escornabois 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Escornabois_256k.mmm
+description=Escucha esta canción
+
+name=Estrella Fugaz 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Estrella%20Fugaz_256k.mmm
+description=Escucha esta canción
+
+name=Final Fever - Sonic the Hedgehog CD
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Final%20Fever%20-%20Sonic%20the%20Hedgehog%20CD%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Fotos en los Gimnasios 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Fotos%20en%20los%20Gimnasios_256k.mmm
+description=Escucha esta canción
+
+name=Freddie Mercury - MGS 3 Snake Eater
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Freddie%20Mercury%20-%20MGS%203%20Snake%20Eater%20%28AI%20cover%20song%29%20-%20Sonny%20Owl.mmm
+description=Escucha esta canción
+
+name=Frutiger Aero Compilation
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Frutiger%20Aero%20Compilation%20%28w_%20music%29%20-%20WingDingHQ.mmm
+description=Escucha esta canción
+
+name=Frutiger aero ~𝓐𝓮𝓼𝓽𝓱𝓮𝓽𝓲𝓬~ playlist - AeroEarth
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Frutiger%20aero%20~%F0%9D%93%90%F0%9D%93%AE%F0%9D%93%BC%F0%9D%93%BD%F0%9D%93%B1%F0%9D%93%AE%F0%9D%93%BD%F0%9D%93%B2%F0%9D%93%AC~%20playlist%20-%20AeroEarth.mmm
+description=Escucha esta canción
+
+name=Frutiger metro ~𝓐𝓮𝓼𝓽𝓱𝓮𝓽𝓲𝓬~ playlist - AeroEarth
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Frutiger%20metro%20~%F0%9D%93%90%F0%9D%93%AE%F0%9D%93%BC%F0%9D%93%BD%F0%9D%93%B1%F0%9D%93%AE%F0%9D%93%BD%F0%9D%93%B2%F0%9D%93%AC~%20playlist%20-%20AeroEarth.mmm
+description=Escucha esta canción
+
+name=Game Over - Sonic the Hedgehog CD
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Game%20Over%20-%20Sonic%20the%20Hedgehog%20CD%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Game Select - Sonic & All-Stars Racing Transformed
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Game%20Select%20-%20Sonic%20%26%20All-Stars%20Racing%20Transformed%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Gazoline 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Gazoline_256k.mmm
+description=Escucha esta canción
+
+name=Gilius Thunderhead
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Gilius%20Thunderhead%20%5BAll-Star%20Theme%5D%20-%20Sonic%20%26%20All-Stars%20Racing%20Transformed%20%5B_256k.mmm
+description=Escucha esta canción
+
+name=Graffiti City - Sonic & All-Stars Racing Transformed
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Graffiti%20City%20-%20Sonic%20%26%20All-Stars%20Racing%20Transformed%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Graveyard Gig
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Graveyard%20Gig%20%28Intro%29%20-%20Sonic%20%26%20All-Stars%20Racing%20Transformed%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Graveyard Gig - Sonic & All-Stars Racing Transformed
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Graveyard%20Gig%20-%20Sonic%20%26%20All-Stars%20Racing%20Transformed%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Gum
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Gum%20%5BAll-Star%20Theme%5D%20-%20Sonic%20%26%20All-Stars%20Racing%20Transformed%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Helvetica Aqua Aero - temcandoanything
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Helvetica%20Aqua%20Aero%20-%20temcandoanything.mmm
+description=Escucha esta canción
+
+name=Humo y Heridas 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Humo%20y%20Heridas_256k.mmm
+description=Escucha esta canción
+
+name=INVISIBLE - Duran Duran
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/INVISIBLE%20-%20Duran%20Duran.mmm
+description=Escucha esta canción
+
+name=Invincible!! - Sonic the Hedgehog CD
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Invincible%21%21%20-%20Sonic%20the%20Hedgehog%20CD%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Joe Musashi
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Joe%20Musashi%20%5BAll-Star%20Theme%5D%20-%20Sonic%20%26%20All-Stars%20Racing%20Transformed%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Knuckles
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Knuckles%20%5BAll-Star%20Theme%5D%20-%20Sonic%20%26%20All-Stars%20Racing%20Transformed%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Kreuzberg Blues 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Kreuzberg%20Blues_256k.mmm
+description=Escucha esta canción
+
+name=La Destrucción del Mundo 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/La%20Destruccio%CC%81n%20del%20Mundo_256k.mmm
+description=Escucha esta canción
+
+name=La Ovnilenteja 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/La%20Ovnilenteja_256k.mmm
+description=Escucha esta canción
+
+name=Liebre 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Liebre_256k.mmm
+description=Escucha esta canción
+
+name=Lisboa 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Lisboa_256k.mmm
+description=Escucha esta canción
+
+name=Little Planet - Sonic the Hedgehog CD
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Little%20Planet%20-%20Sonic%20the%20Hedgehog%20CD%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Living in the City - Sonic R
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Living%20in%20the%20City%20-%20Sonic%20R%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Los Amantes de Magritte 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Los%20Amantes%20de%20Magritte_256k.mmm
+description=Escucha esta canción
+
+name=Los Ojos Del Insecto 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Los%20Ojos%20Del%20Insecto_256k.mmm
+description=Escucha esta canción
+
+name=Luz en Mis Maletas 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Luz%20en%20Mis%20Maletas_256k.mmm
+description=Escucha esta canción
+
+name=Main Menu - Sonic & All-Stars Racing Transformed
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Main%20Menu%20-%20Sonic%20%26%20All-Stars%20Racing%20Transformed%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=MeeMee
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/MeeMee%20%5BAll-Star%20Theme%5D%20-%20Sonic%20%26%20All-Stars%20Racing%20Transformed%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Menos Que Cero 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Menos%20Que%20Cero_256k.mmm
+description=Escucha esta canción
+
+name=Metal City Skatepark - Sonic Speed Simulator
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Metal%20City%20Skatepark%20-%20Sonic%20Speed%20Simulator%20%28OST%29%20-%20El%20jitan%20loco.mmm
+description=Escucha esta canción
+
+name=Metal Sonic
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Metal%20Sonic%20%5BAll-Star%20Theme%5D%20-%20Sonic%20%26%20All-Stars%20Racing%20Transformed%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Metallic Madness 'B' mix - Sonic the Hedgehog CD
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Metallic%20Madness%20%27B%27%20mix%20-%20Sonic%20the%20Hedgehog%20CD%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Metallic Madness 'G' mix - Sonic the Hedgehog CD
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Metallic%20Madness%20%27G%27%20mix%20-%20Sonic%20the%20Hedgehog%20CD%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Metallic Madness 'P' mix - Sonic the Hedgehog CD
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Metallic%20Madness%20%27P%27%20mix%20-%20Sonic%20the%20Hedgehog%20CD%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Metallic Madness - Sonic the Hedgehog CD
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Metallic%20Madness%20-%20Sonic%20the%20Hedgehog%20CD%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Mi Vida Con Triki 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Mi%20Vida%20Con%20Triki_256k.mmm
+description=Escucha esta canción
+
+name=Mii
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Mii%20%5BAll-Star%20Theme%5D%20-%20Sonic%20%26%20All-Stars%20Racing%20Transformed%20%5BOST%5D_256k.mmm
+description=Escucha esta canción
+
+name=Monty Clift 256k
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Monty%20Clift_256k.mmm
+description=Escucha esta canción
+
+name=Mr. High Heels
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/Mr.%20High%20Heels%20%28Versio%CC%81n%20de%20Algora%20%26%20Macias%29_256k.mmm
+description=Escucha esta canción
+
+name=a calm frutiger aero playlist
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/a%20calm%20frutiger%20aero%20playlist%20%28REUPLOAD%29%20-%20LionsSharks15.mmm
+description=Escucha esta canción
+
+name=alyzea - dream OS - ArpWire TV
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/alyzea%20-%20dream%20OS%20-%20ArpWire%20TV.mmm
+description=Escucha esta canción
+
+name=floating away in 2011 🌊 frutiger aero playlist - iris flowers
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/floating%20away%20in%202011%20%F0%9F%8C%8A%20frutiger%20aero%20playlist%20-%20iris%20flowers.mmm
+description=Escucha esta canción
+
+name=frutiger aero - amirthetrash
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/frutiger%20aero%20-%20amirthetrash.mmm
+description=Escucha esta canción
+
+name=hydrate! • a frutiger aero playlist - manookjg
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/hydrate%21%20%E2%80%A2%20a%20frutiger%20aero%20playlist%20-%20manookjg.mmm
+description=Escucha esta canción
+
