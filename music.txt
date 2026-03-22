@@ -1,0 +1,10 @@
+marketversion=3.1.4
+package=music2.apk
+
+
+
+
+name=Whasap2
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Whasap2.apk
+description=Una app dedicada a usar discord en android 4.X
+
