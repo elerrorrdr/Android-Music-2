@@ -11,3 +11,7 @@ description=pokemon
 name=Cruel Angel Thesis 
 package=https://raw.githubusercontent.com/elerrorrdr/Android-Music-2/main/A%20Cruel%20Angel's%20Thesis%20(Director's%20Edit%20Version)%20%5BCZQ1pTMAXN0%5D.mmm
 description=pokemon
+
+name=weather channel
+package=https://www.mediafire.com/file/c0wth99wm2twwre/weather_channel.mmm/file
+description=Escucha esta canción
